@@ -129,5 +129,5 @@ AgentFlow is designed to be modular. Some ideas:
 
 ## Author
 
-**Ashery Mbilinyi** — PhD, Computer Science | Assistant Professor, University of Victoria
+**Ashery Mbilinyi** — ML Engineer & Researcher | Assistant Professor @ UVic | PhD, Computer Science
 [LinkedIn](https://linkedin.com/in/asherymbilinyi) · [GitHub](https://github.com/AsheryMbilinyi) · [Website](https://asherymbilinyi.github.io)
